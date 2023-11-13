@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\PartyInvites\\PartyInvites.csproj": {}
+    "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\LanguageFeatures\\LanguageFeatures.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\PartyInvites\\PartyInvites.csproj": {
+    "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\LanguageFeatures\\LanguageFeatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\PartyInvites\\PartyInvites.csproj",
-        "projectName": "PartyInvites",
-        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\PartyInvites\\PartyInvites.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\LanguageFeatures\\LanguageFeatures.csproj",
+        "projectName": "LanguageFeatures",
+        "projectPath": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\LanguageFeatures\\LanguageFeatures.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\PartyInvites\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\GitHub\\Self-Education\\ASP.NET-book\\LanguageFeatures\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
