@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\bin\Debug\net6.0\AuthVideo.Infrastructure.deps.json
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\bin\Debug\net6.0\AuthVideo.Infrastructure.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\bin\Debug\net6.0\AuthVideo.Infrastructure.pdb
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\bin\Debug\net6.0\AuthVideo.Domain.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\bin\Debug\net6.0\AuthVideo.Domain.pdb
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.csproj.CopyComplete
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\refint\AuthVideo.Infrastructure.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\AuthVideo.Infrastructure.pdb
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Infrastructure\obj\Debug\net6.0\ref\AuthVideo.Infrastructure.dll

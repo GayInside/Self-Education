@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\bin\Debug\net6.0\AuthVideo.Domain.deps.json
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\bin\Debug\net6.0\AuthVideo.Domain.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\bin\Debug\net6.0\AuthVideo.Domain.pdb
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\refint\AuthVideo.Domain.dll
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\AuthVideo.Domain.pdb
+C:\Users\User\Desktop\GitHub\videoauth\AuthVideo.Domain\obj\Debug\net6.0\ref\AuthVideo.Domain.dll
